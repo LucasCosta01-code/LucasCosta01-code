@@ -13,21 +13,12 @@
 - **Ferramentas de Desenvolvimento:** ![Git](https://img.shields.io/badge/-Git-black) ![Docker](https://img.shields.io/badge/-Docker-blue) ![VS Code](https://img.shields.io/badge/-VS%20Code-blue) ![WebStorm](https://img.shields.io/badge/-WebStorm-blue)
 - **Bancos de Dados:** ![MySQL](https://img.shields.io/badge/-MySQL-blue) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue) ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
 
-## 📂 Projetos
-
-### [Projeto 1: Nome do Projeto](https://github.com/LucasCosta01-code/projeto1)
-![Projeto 1](https://via.placeholder.com/400x200.png?text=Imagem+do+Projeto+1)
-Descrição breve do projeto, suas funcionalidades e tecnologias utilizadas.
-
-### [Projeto 2: Nome do Projeto](https://github.com/LucasCosta01-code/projeto2)
-![Projeto 2](https://via.placeholder.com/400x200.png?text=Imagem+do+Projeto+2)
-Descrição breve do projeto, suas funcionalidades e tecnologias utilizadas.
 
 ## 📫 Contato
 
-- **Email:** [lucas@example.com](mailto:lucas@example.com)
-- **LinkedIn:** [linkedin.com/in/lucas](https://linkedin.com/in/lucas)
-- **Portfólio:** [seu-portfolio.com](https://seu-portfolio.com)
+- **Email:** [tucasop@gmail.com](mailto:tucasop@gmail.com)
+- **LinkedIn:** [linkedin.com/in/lucas](https://www.linkedin.com/in/lucas-costa-b675762a7/)
+
 
 ## 📊 Estatísticas do GitHub
 
