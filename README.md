@@ -38,6 +38,3 @@ Obrigado por visitar meu perfil! Se você gostou dos meus projetos ou quer colab
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=LucasCosta01-code.seu-repositorio" alt="Visitantes">
-</p>
