@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-👋 Olá! Meu nome é **Lucas**, tenho 21 anos e sou um desenvolvedor web/software apaixonado por criar soluções inovadoras e eficientes. Tenho experiência em diversas tecnologias e estou sempre em busca de novos desafios.
+👋 Olá! Meu nome é **Lucas**, tenho 22 anos e sou um desenvolvedor web/software apaixonado por criar soluções inovadoras e eficientes. Tenho experiência em diversas tecnologias e estou sempre em busca de novos desafios.
 
 ## 🚀 Tecnologias e Ferramentas
 
